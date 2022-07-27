@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Francis-Alex-Kuzhippallil
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently pursuing Bachelors in Computer Science 
+- 🌱 I’m currently pursuing Masters on Computing and Data Analytics in Saint Mary's University, Canada 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
